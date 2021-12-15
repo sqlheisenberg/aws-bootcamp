@@ -8,7 +8,7 @@ You should create AWS Certification profile on AWS Training site. To create AWS 
 ## Currently Available AWS Certifications 
 ![AWS Certification](/images/aws-certfication.png)
 
-### [AWS Certified Solutions Architect – Associate SAA-C02]()
+### [AWS Certified Solutions Architect – Associate SAA-C02](/aws/aws-saa-co2.md)
 
 ## AWS Documentation / Learning Resources
 
