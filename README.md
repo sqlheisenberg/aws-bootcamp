@@ -3,5 +3,8 @@ U ovom repozitoriju nalaze se svi potrebni dokumenti i reference za materijale k
 
 ## Where to start
 
-### [AWS Certification Overivew](/aws/aws-certs-overview.md)
+### [Start with DevOps](/devops/devops-beginnings.md)
 
+### Start with AWS Cloud
+
+#### [AWS Certification Overivew](/aws/aws-certs-overview.md)
