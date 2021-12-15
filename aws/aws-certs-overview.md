@@ -29,3 +29,8 @@ AWS Certifikacija je podijeljena u nekoliko nivoa:
 ### [AWS Advanced Networking Specialty](/aws/certs/specialty/networking-specialty.md)
 ### [AWS Machine Learning Specialty](/aws/certs/specialty/ml-specialty.md)
 ### [AWS Data Analytics Specialty](/aws/certs/specialty/data-analytics-specialty.md)
+
+## Retired AWS Certificates
+
+Sljedeci AWS Certifikati vise nisu aktivni/dostupni za polaganje: 
+#### [AWS Certified Alexa Skill Builder - Specialty](https://aws.amazon.com/certification/certified-alexa-skill-builder-specialty/)
