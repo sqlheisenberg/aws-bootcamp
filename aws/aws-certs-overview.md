@@ -18,7 +18,7 @@ AWS Certifikacija je podijeljena u nekoliko nivoa:
 ### [AWS Cloud Practicioner](/aws/certs/associate/cloud-practicioner.md)
 
 ### [AWS Certified Solutions Architect – Associate SAA-C02](/aws/certs/associate/aws-saa-co2.md)
-### [AWS SysOps Administrator - Associate](/aws/certs/associate/sysops-associate.md)
+### [AWS SysOps Administrator - Associate SOA-C02](/aws/certs/associate/sysops-associate.md)
 ### [AWS Developer - Associate](/aws/certs/associate/developer-associate.md)
 
 ### [AWS Solutions Architect - Profesional](/aws/certs/pro/saa-pro.md)
