@@ -1,1 +1,1 @@
-# AWS MAchine Learning Specialty
+# AWS Machine Learning Specialty
