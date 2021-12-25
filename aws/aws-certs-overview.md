@@ -34,3 +34,5 @@ AWS Certifikacija je podijeljena u nekoliko nivoa:
 
 Sljedeci AWS Certifikati vise nisu aktivni/dostupni za polaganje: 
 #### [AWS Certified Alexa Skill Builder - Specialty](https://aws.amazon.com/certification/certified-alexa-skill-builder-specialty/)
+
+## [AWS Certification Official Practice Question Sets](https://explore.skillbuilder.aws/learn/course/external/view/elearning/9153/aws-certification-official-practice-question-sets-english)
