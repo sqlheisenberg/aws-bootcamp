@@ -3,7 +3,7 @@
 ## Python
 
 Coursera - [Google IT Automation with Python Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation)
-
+Book - [Think Python](https://greenteapress.com/wp/think-python/)
 ## GO
 
 ## Groovy
