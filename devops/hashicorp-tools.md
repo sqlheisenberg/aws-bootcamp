@@ -6,4 +6,6 @@ This repo is intended to supplement training courses and external projects relat
 
 ## Terraform
 
+[Terraform Best Practices Book](https://www.terraform-best-practices.com/)
+
 ## Packer
