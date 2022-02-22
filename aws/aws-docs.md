@@ -20,4 +20,8 @@
 
 [Cost Optimization Pillar](https://docs.aws.amazon.com/wellarchitected/latest/cost-optimization-pillar/wellarchitected-cost-optimization-pillar.pdf)  
 
-[Sustainability Pillar](https://docs.aws.amazon.com/wellarchitected/latest/sustainability-pillar/wellarchitected-sustainability-pillar.pdf)  
+[Sustainability Pillar](https://docs.aws.amazon.com/wellarchitected/latest/sustainability-pillar/wellarchitected-sustainability-pillar.pdf) 
+
+[AWS Well-Architected Framework Workshop](https://wellarchitectedlabs.com/)
+
+[AWS Skills Builder - AWS Well-Architected Framework](https://explore.skillbuilder.aws/learn/course/external/view/elearning/2045/aws-well-architected)
