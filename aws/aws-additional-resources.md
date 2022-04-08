@@ -9,3 +9,5 @@ Course by Adrian Cantrill.
 Course by Stephane Maarek
 [ultimate-aws-certified-sysops-administrator-associate](https://www.udemy.com/course/ultimate-aws-certified-sysops-administrator-associate/)
 
+
+[AWS Certified: SAP on AWS - Specialty](https://blogs.sap.com/2022/04/07/preparing-for-sap-on-aws-specialty-pas-c01/)
