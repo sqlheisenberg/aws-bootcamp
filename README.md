@@ -1,3 +1,4 @@
+# NOTE: Work in progress 
 # AWS / DevOps Bootcamp  
 U ovom repozitoriju nalaze se svi potrebni dokumenti i reference za materijale koje koristimo za AWS / DevOps trening i obuku.
 
