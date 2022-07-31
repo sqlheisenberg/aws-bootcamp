@@ -6,6 +6,8 @@ U ovom repozitoriju nalaze se svi potrebni dokumenti i reference za materijale k
 
 ### [Start with DevOps](/devops/devops-beginnings.md)
 
+#### DevOps Roadmap
+![DevOps RoadMamp](/images/graphics/devops_roadmap_dzenan.jpg)
 ### Start with AWS Cloud
 
 #### [AWS Certification Overivew](/aws/aws-certs-overview.md)
