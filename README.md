@@ -1,6 +1,6 @@
 # NOTE: Work in progress 
-# AWS / DevOps Bootcamp  
-U ovom repozitoriju nalaze se svi potrebni dokumenti i reference za materijale koje koristimo za AWS / DevOps trening i obuku.
+# AWS and DevOps Ultimate Learning Guide  
+U ovom repozitoriju nalaze se svi potrebni dokumenti, materijali i reference za ucenje i trening AWS public cloud platfrome kao i DevOps alata neophodnih za rad na poziciji DevOps/SRE/Platfrom/Production inzinjera.
 
 ## Where to start
 
@@ -11,3 +11,6 @@ U ovom repozitoriju nalaze se svi potrebni dokumenti i reference za materijale k
 ### Start with AWS Cloud
 
 #### [AWS Certification Overivew](/aws/aws-certs-overview.md)
+
+## Kontakt
+U slucaju bilo kakvih pitanja budite slobodni da otvorite **Pull Request**, kreirate **Issue** ili me kontaktirate direktno na email: <dzenan.dzevlan@gmail.com>
