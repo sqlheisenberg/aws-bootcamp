@@ -7,4 +7,5 @@
 ## Terrafrom Certification
 
 ## Resources
-[Terraform: Up and Running, 3rd Edition](https://learning.oreilly.com/library/view/terraform-up-and/9781098116736/)
+[Terraform: Up and Running, 3rd Edition](https://learning.oreilly.com/library/view/terraform-up-and/9781098116736/)  
+[Terrafrom Cookbook](https://learning.oreilly.com/library/view/terraform-cookbook/9781098108458/)

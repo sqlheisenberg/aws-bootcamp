@@ -12,5 +12,9 @@ U ovom repozitoriju nalaze se svi potrebni dokumenti, materijali i reference za 
 
 #### [AWS Certification Overivew](/aws/aws-certs-overview.md)
 
+
+## Google Drive Resources
+[📚 Learning and Training (DevOps materials)](https://drive.google.com/drive/folders/1t0VvIGzP6uo6WVKiynj2YKZLDeVbGU_o?usp=sharing)
+
 ## Kontakt
 U slucaju bilo kakvih pitanja budite slobodni da otvorite **Pull Request**, kreirate **Issue** ili me kontaktirate direktno na email: <dzenan.dzevlan@gmail.com>
